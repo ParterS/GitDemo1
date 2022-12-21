@@ -15,6 +15,6 @@ public class Main {
         System.out.println(totalCost);
         System.out.println("Hellorld!");
         System.out.println("Fuck YEah!");
-        System.out.println("Hello Dima!");
+        System.out.println("Hello Serj!!!");
     }
 }
