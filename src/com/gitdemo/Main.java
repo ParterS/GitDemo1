@@ -6,6 +6,7 @@ public class Main {
         Car car2 = new Car("Mazda",2022,24600);
         Car car3 = new Car("Honda",2023,28200);
         Car car4 = new Car("Nissan",2023,28200);
+        Driver dima = new Driver("Dima", 22);
 
     double totalCost = car1.getCost()+car2.getCost()+car3.getCost()+car4.getCost();
         double mazdaCost = car2.getCost();
