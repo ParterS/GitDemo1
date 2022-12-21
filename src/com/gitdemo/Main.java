@@ -14,6 +14,6 @@ public class Main {
         System.out.println(hondaCost);
         System.out.println(totalCost);
         System.out.println("Hellorld!");
-
+        System.out.println("Fuck YEah!");
     }
 }
