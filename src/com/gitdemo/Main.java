@@ -8,6 +8,8 @@ public class Main {
         Car car4 = new Car("Honda",2023,28200);
 
     double totalCost = car1.getCost()+car2.getCost()+car3.getCost();
-        System.out.println(totalCost);
+        double mazdaCost = car2.getCost();
+
+        System.out.println(mazdaCost);
     }
 }
